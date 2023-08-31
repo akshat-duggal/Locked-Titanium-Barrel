@@ -1,0 +1,94 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+body{
+    background-color:rgb(233, 209, 233);
+}
+
+.name{
+    font-size: 30px;
+    text-align:center;
+    padding: 0px 220px;
+}
+.logo{
+    width: 100px;
+    margin: 17px;
+}
+
+nav{
+    background-color: rgb(239, 247, 230);
+    border-radius: 8px;
+}
+
+nav li{
+    float:left;
+    list-style: none;
+    margin: 0px 20px;
+}
+
+nav ul{
+    overflow:auto;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+}
+
+.join{
+    background-color: rgb(192, 123, 160);
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 40px 0px -30px;
+}
+
+.login{
+    background-color:mistyrose;
+    font-size: 25px;
+    padding:5px;
+    border-radius: 8px;
+    margin: 40px 20px;
+}
+
+#phrase{
+    font-size: 50px;
+}
+
+#demo{
+    width:600px;
+}
+
+#screen{
+    float:right;
+}
+
+#para{
+    font-size: 25px;
+}
+
+#main{
+    margin-left: 50px;
+}
+
+#getstarted{
+    background-color: rgb(246, 170, 211);
+    font-weight: bolder;
+    font-size: 25px;
+    border-radius: 15px;
+    margin-top: 100px;
+    padding: 5px;
+}
+
+#viewpricing{
+    background-color: #E2BEFF;
+    font-size: 25px;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.options{
+    list-style: none;
+}
